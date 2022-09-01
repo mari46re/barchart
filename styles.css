@@ -1,0 +1,14 @@
+#bars {
+  display: flex;
+  height: 100px;
+  align-items: flex-end;
+  margin-top: 40%;
+}
+
+.bar {
+  flex-grow: 1;
+  border: 1px solid blue;
+  background-color: aquamarine;
+  margin-right: 1px;
+  height: 100%;
+}
